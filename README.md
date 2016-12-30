@@ -1,5 +1,8 @@
-<img src="https://3.bp.blogspot.com/-ZaKQeXKypQk/V_KwWMDtipI/AAAAAAAAAqo/4WUBq883i4MGAvdiritdLlA24Zg6vbJGgCLcB/s1600/The%2BGreta%2Boto%2BGlasswing%2Bbutterfly.jpg" alt="Greta oto Glasswing Bbutterfly">
+![](http://160.111.248.28/content/2014/07/24/22/72360_580_360.jpg)  
+Photographer: [S. Rae][1]
 
-for more information visit now - <a href="http://anything-and-everything.com/2016/10/greta-oto-glasswing-butterfly.html">greta oto</a>
+## Greta Oto
 
 Pixel tracking notifier hosted on Google App Engine. Sends an email to you each time the tracking pixel is fetched.
+
+  [1]: http://www.flickr.com/photos/35142635@N05
